@@ -1,9 +1,1 @@
-{
-  "/api/guestbook/route": "app/api/guestbook/route.js",
-  "/api/invitation/route": "app/api/invitation/route.js",
-  "/api/accounts/route": "app/api/accounts/route.js",
-  "/api/gallery/route": "app/api/gallery/route.js",
-  "/page": "app/page.js",
-  "/invitation/[slug]/page": "app/invitation/[slug]/page.js",
-  "/admin/page": "app/admin/page.js"
-}
+{}
